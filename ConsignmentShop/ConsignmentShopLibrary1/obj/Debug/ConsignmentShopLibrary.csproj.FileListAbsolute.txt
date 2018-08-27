@@ -1,0 +1,6 @@
+C:\Users\sgovindarao\source\repos\ConsignmentShop\ConsignmentShopLibrary1\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\sgovindarao\source\repos\ConsignmentShop\ConsignmentShopLibrary1\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\sgovindarao\source\repos\ConsignmentShop\ConsignmentShopLibrary1\obj\Debug\ConsignmentShopLibrary.csprojAssemblyReference.cache
+C:\Users\sgovindarao\source\repos\ConsignmentShop\ConsignmentShopLibrary1\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sgovindarao\source\repos\ConsignmentShop\ConsignmentShopLibrary1\obj\Debug\ConsignmentShopLibrary.dll
+C:\Users\sgovindarao\source\repos\ConsignmentShop\ConsignmentShopLibrary1\obj\Debug\ConsignmentShopLibrary.pdb
